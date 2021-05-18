@@ -40,7 +40,7 @@ access interface name {
 ```
 
 > Default access interface is only available to it's other member of the same package
-
+> 
 <br>
 ### Accessing Implementations Through Interface References
 <br>
@@ -85,3 +85,5 @@ System.out.println(Run.val);
 ```
 
 * Interface can be extended
+
+
