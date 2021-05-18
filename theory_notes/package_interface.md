@@ -85,4 +85,3 @@ System.out.println(Run.val);
 ```
 
 * Interface can be extended
-*
